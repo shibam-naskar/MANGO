@@ -10,7 +10,7 @@ MANGO is fast and syntax is user easy and user friendly
 
 # INSTALATION IN WINDOWS
 1 - download the setup file from here
-https://github.com/shibam-naskar/MANGO_INSTALLERS/raw/shibam-portfolio/mango.exe
+https://github.com/shibam-naskar/testhtps/raw/shibam-portfolio/mango%20win%20X%2064.exe
 
 2 - then add the instalation directory path to system environment variable path
 
