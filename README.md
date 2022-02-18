@@ -10,7 +10,7 @@ MANGO is fast and syntax is user easy and user friendly
 
 # INSTALATION IN WINDOWS
 1 - download the setup file from here
-https://github.com/shibam-naskar/MANGO_INSTALLERS/raw/shibam-portfolio/mango.exe
+https://github.com/shibam-naskar/testhtps/raw/shibam-portfolio/mango%20win%20X%2064.exe
 
 2 - then add the instalation directory path to system environment variable path
 
@@ -18,8 +18,26 @@ https://github.com/shibam-naskar/MANGO_INSTALLERS/raw/shibam-portfolio/mango.exe
 
 
 
-# LINUX installer comming soon stay updated
+# INSTALATION IN LINUX
+1 - Just download or clone this repo
 
+```ruby
+git clone https://github.com/shibam-naskar/MANGO_Linux.git
+```
+2 - add the folder path to system path variable
+
+# How to set system variable
+  1 - Open linux default tarminal
+  
+  
+  2 - locate .bashrc file and open it with any editot like nano,vim etc
+  ```ruby
+nano .bashrc
+```
+3 - add the folder path at the verry bottom of .bashrc file like this
+ ```ruby
+export PATH=$PATH:YOYR_FOLDER_PATH
+```
 
 # MONGO EXAMPLES
 
